@@ -63,17 +63,17 @@ global.location = "India, Mizoram, Aizawl" //ur location
 //bot bomdy
 global.owner = ['94764370534'] //ur number 
 global.ownertag = '94764370534' //ur tag number
-global.botname = '🄻🄰🄺🄸🅈🄰' //ur bot name
+global.botname = 'ᒪᗩKIYᗩ ᵐᵈ ㋛︎' //ur bot name
 global.linkz = "https://youtu.be/3J9-8U8St3U" //your theme url which will be displayed on whatsapp
 global.websitex = "https://youtu.be/3J9-8U8St3U" //ur website to be displayed
 global.botscript = 'https://github.com/Nipuna-apps/Blue-Lione-Bot' //script link
 global.reactmoji = "😘" //ur menu react emoji
 global.themeemoji = "🦄" //ur theme emoji
 global.packname = "☠️ 𝑳 𝒂 𝒌 𝒊 𝒚 𝒂 ☠️" //ur sticker watermark packname
-global.author = "☠️ 𝑳 𝒂 𝒌 𝒊 𝒚 𝒂 ☠️" //ur sticker watermark author
+global.author = "𝗟 𝘂 𝗰 𝗸 𝘆 ᵇᵒʸ" //ur sticker watermark author
 global.menumoji ="🎲"
 global.menuimg = "https://telegra.ph/file/7dae542dfac337d0f6f6c.jpg" //ur alive img link [https://i.ibb.co]
-global.alive = "https://telegra.ph/file/7dae542dfac337d0f6f6c.jpg" //ur alive video or image link [github.com]
+global.alive = "https://vimeo.com/760333050" //ur alive video or image link [github.com]
 //Bot theme media
 global.thum = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
 global.log0 = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur logo pic
