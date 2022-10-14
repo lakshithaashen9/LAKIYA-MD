@@ -39,7 +39,7 @@ global.APIKeys = {
 global.autoTyping = true //auto tying in gc (true to on, false to off)
 global.autoreadpmngc = false //auto reading in gc and pm (true to on, false to off)
 global.autoReadGc = false //auto reading in gc (true to on, false to off)
-global.autoRecord = false //auto recording (true to on, false to off)
+global.autoRecord = true //auto recording (true to on, false to off)
 global.available = true //auto available (true to on, false to off)
 
 //semt menu variants
@@ -55,7 +55,7 @@ global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
 global.vcardowner = ['94764370534'] //ur owner number
-global.ownername = "lakshitha" //ur owner name
+global.ownername = "𝗟 𝘂 𝗰 𝗸 𝘆 ᵇᵒʸ" //ur owner name
 global.ytname = "YT: 𝐂𝐈𝐁𝐄𝐑 𝐓𝐄𝐂𝐇" //ur yt chanel name
 global.socialm = "GitHub: Nipuna-apps" //ur github or insta name
 global.location = "India, Mizoram, Aizawl" //ur location
@@ -63,7 +63,7 @@ global.location = "India, Mizoram, Aizawl" //ur location
 //bot bomdy
 global.owner = ['94764370534'] //ur number 
 global.ownertag = '94764370534' //ur tag number
-global.botname = '📶 𝑳 𝒂 𝒌 𝒊 𝒚 𝒂  📶' //ur bot name
+global.botname = '🄻🄰🄺🄸🅈🄰' //ur bot name
 global.linkz = "https://youtu.be/3J9-8U8St3U" //your theme url which will be displayed on whatsapp
 global.websitex = "https://youtu.be/3J9-8U8St3U" //ur website to be displayed
 global.botscript = 'https://github.com/Nipuna-apps/Blue-Lione-Bot' //script link
@@ -72,8 +72,8 @@ global.themeemoji = "🦄" //ur theme emoji
 global.packname = "📶 𝑳 𝒂 𝒌 𝒊 𝒚 𝒂 📶" //ur sticker watermark packname
 global.author = "📶 𝑳 𝒂 𝒌 𝒊 𝒚 𝒂 📶" //ur sticker watermark author
 global.menumoji ="💖"
-global.menuimg = "https://i.imgur.com/SRCq1fA.jpeg" //ur alive img link [https://i.ibb.co]
-global.alive = "https://raw.githubusercontent.com/Nipuna-apps/Blue-Lion-Bot-V2/main/LioneMedia/video/Lione-bot.mp4" //ur alive video or image link [github.com]
+global.menuimg = "https://telegra.ph/file/7dae542dfac337d0f6f6c.jpg" //ur alive img link [https://i.ibb.co]
+global.alive = "https://telegra.ph/file/7dae542dfac337d0f6f6c.jpg" //ur alive video or image link [github.com]
 //Bot theme media
 global.thum = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
 global.log0 = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur logo pic
@@ -113,9 +113,9 @@ global.mess = {
     owner: 'This Feature Is Only For Owner!',
     group: 'Feature Used Only For Groups!',
     private: 'Features Used Only For Private Chat!',
-    bot: 'This Feature Is Only For Bot',
-    wait: 'In process...',
-    linkm: 'Where is the link?',
+    bot: 'අදාල නැති ඒව ඔබන්න එපා',
+    wait: 'පොඩ්ඩක් ඉන්න...',
+    linkm: 'ලින්ක් එකක් නැත්තං නමක් type කරන්න.',
     error: 'Error!!',
     endLimit: 'Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours',
     ban: 'You have been banned by the owner, if you want to be unbanned, chat owner.',
