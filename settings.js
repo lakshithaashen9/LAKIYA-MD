@@ -36,10 +36,10 @@ global.APIKeys = {
 
 
 //aumto functioner
-global.autoTyping = true //auto tying in gc (true to on, false to off)
+global.autoTyping = false //auto tying in gc (true to on, false to off)
 global.autoreadpmngc = false //auto reading in gc and pm (true to on, false to off)
 global.autoReadGc = false //auto reading in gc (true to on, false to off)
-global.autoRecord = true //auto recording (true to on, false to off)
+global.autoRecord = false //auto recording (true to on, false to off)
 global.available = true //auto available (true to on, false to off)
 
 //semt menu variants
@@ -73,7 +73,7 @@ global.packname = "☠️ 𝑳 𝒂 𝒌 𝒊 𝒚 𝒂 ☠️" //ur sticker wat
 global.author = "𝗟 𝘂 𝗰 𝗸 𝘆 ᵇᵒʸ" //ur sticker watermark author
 global.menumoji ="🎲"
 global.menuimg = "https://telegra.ph/file/7dae542dfac337d0f6f6c.jpg" //ur alive img link [https://i.ibb.co]
-global.alive = "https://raw.githubusercontent.com/Nipuna-apps/Blue-Lion-Bot-V2/main/LioneMedia/video/Lione-bot.mp4" //ur alive video or image link [github.com]
+global.alive = "https://i.imgur.com/asyome9.mp4" //ur alive video or image link [github.com]
 //Bot theme media
 global.thum = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
 global.log0 = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur logo pic
